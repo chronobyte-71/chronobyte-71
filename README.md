@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<img src="https://github.com/chronobyte-71/chronobyte-71/blob/main/1719750.webp?raw=true" />
-
-<img src="https://github.com/chronobyte-71/chronobyte-71/blob/main/Video1.gif?raw=true" />
-
-<img src="https://github.com/chronobyte-71/chronobyte-71/blob/main/5927911.gif?raw=true" />
 
 <!--
 **chronobyte-71/chronobyte-71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
