@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github.com/chronobyte-71/chronobyte-71/blob/main/1719750.webp?raw=true" />
+
 <img src="https://github.com/chronobyte-71/chronobyte-71/blob/main/Video1.gif?raw=true" />
 
 <img src="https://github.com/chronobyte-71/chronobyte-71/blob/main/5927911.gif?raw=true" />
