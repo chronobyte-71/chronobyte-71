@@ -1,6 +1,6 @@
 # I'm Fabrício Kehl
 
-A Redteam enthusiast, currently pursuing a postgraduate degree in cybersecurity. Focused on improving my knowledge of networks and cybersecurity to progress towards offensive security.
+A Redteam enthusiast, currently pursuing a postgraduate diploma in cybersecurity. Focused on improving my knowledge of networks and cybersecurity to progress towards offensive security.
 
 ## About me
 
