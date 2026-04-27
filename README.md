@@ -1,17 +1,23 @@
-## Hi there 👋
+# I'm Fabrício Kehl
+
+A Redteam enthusiast, currently pursuing a postgraduate degree in cybersecurity. Focused on improving my knowledge of networks and cybersecurity to progress towards offensive security.
+
+## About me
+
+I'm currently working with network security, like firewalls and SASE solutions.
+
+Brazilian Army reserve officer.
+
+Learning some dev skills for offensive security objective
+
+## Tools that I work with or am learning.
 
 
-<!--
-**chronobyte-71/chronobyte-71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github Status
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chronobyte-71&show_icons=true&theme=chartreuse-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronobyte-71&layout=compact&theme=chartreuse-dark)
+
+## Support Me
