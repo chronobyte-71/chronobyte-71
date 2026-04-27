@@ -15,14 +15,8 @@ Learning some dev skills for offensive security objective
 
 ## Github Status
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chronobyte-71&show_icons=true&theme=chartreuse-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chronobyte-71&layout=compact&theme=chartreuse-dark)
-
 <div align="center">
    <img width="398" src="https://github-readme-stats.vercel.app/api?username=chronobyte-71&show_icons=true&theme=chartreuse-dark" /> 
-
   <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronobyte-71&layout=compact&theme=chartreuse-dark" alt="." />
 </div>
 
