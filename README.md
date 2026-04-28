@@ -1,14 +1,20 @@
-# I'm Fabrício Kehl
+<a>
+    <img src="https://github.com/chronobyte-71/chronobyte-71/blob/main/chronobyte.png?raw=true)">
+</a>
 
-A Redteam enthusiast, currently pursuing a postgraduate diploma in cybersecurity. Focused on improving my knowledge of networks and cybersecurity to progress towards offensive security.
+<h2 align="center">
+    Hey👋 I am Fabrício Kehl
+</h2>
+
+A Redteam enthusiast, currently pursuing a postgraduate degree in cybersecurity. Focused on improving my knowledge of networks and cybersecurity to progress towards offensive security.
 
 ## About me
 
-I'm currently working with network security, like firewalls and SASE solutions.
+🧑🏻‍💼 I'm currently working with network security, like firewalls and SASE solutions.
 
-Brazilian Army reserve officer.
+🎖️Brazilian Army reserve officer.
 
-Learning some dev skills for offensive security objective
+🧑‍💻Learning some dev skills for offensive security objective
 
 ## Tools that I work with or am learning.
 
