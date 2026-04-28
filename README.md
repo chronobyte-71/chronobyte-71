@@ -6,24 +6,37 @@
     Hey👋 I am Fabrício Kehl
 </h2>
 
-A Redteam enthusiast, currently pursuing a postgraduate degree in cybersecurity. Focused on improving my knowledge of networks and cybersecurity to progress towards offensive security.
+Red Team enthusiast currently pursuing a postgraduate diploma in Cybersecurity. Focused on strengthening my knowledge in networking and information security, with the goal of transitioning into offensive security.
 
-## About me
+
+<h3 align="left">
+    💫 About Me
+</h3>
+
 
 🧑🏻‍💼 I'm currently working with network security, like firewalls and SASE solutions.
 
 🎖️Brazilian Army reserve officer.
 
-🧑‍💻Learning some dev skills for offensive security objective
-
-## Tools that I work with or am learning.
+🧑‍💻Learning some dev skills for offensive security objective.
 
 
-## Github Status
+<h2 align="center">
+    📚Tools that I work with or am learning.
+</h2>
+
+
+<h2 align="center">
+    🔥Github Status
+</h2>
 
 <div align="center">
-   <img width="398" src="https://github-readme-stats.vercel.app/api?username=chronobyte-71&show_icons=true&theme=chartreuse-dark" /> 
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=chronobyte-71&show_icons=true&theme=chartreuse-dark" /> 
   <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronobyte-71&layout=compact&theme=chartreuse-dark" alt="." />
 </div>
 
-## Support Me
+
+
+<h2 align="center">
+    ☕Support Me
+</h2>
