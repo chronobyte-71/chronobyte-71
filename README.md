@@ -3,10 +3,14 @@
 </a>
 
 <h2 align="center">
-    Hey👋 I am Fabrício Kehl
+    Hey👋😎 I'm Fabrício Kehl
 </h2>
 
-Red Team enthusiast currently pursuing a postgraduate diploma in Cybersecurity. Focused on strengthening my knowledge in networking and information security, with the goal of transitioning into offensive security.
+
+<h align="center">
+    Red Team enthusiast currently pursuing a postgraduate diploma in Cybersecurity. Focused on strengthening my knowledge in networking and information security, with the goal of transitioning into offensive security.
+</h>
+
 
 
 <h3 align="left">
@@ -38,5 +42,5 @@ Red Team enthusiast currently pursuing a postgraduate diploma in Cybersecurity. 
 
 
 <h2 align="center">
-    ☕Support Me
+    ☕Help me with my journey
 </h2>
