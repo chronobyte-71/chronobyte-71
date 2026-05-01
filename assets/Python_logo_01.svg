@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg01" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="python 01.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 600 600"
+	 style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#387EB8;}
+	.st2{display:inline;fill:#FFC331;}
+	.st3{display:inline;fill:none;stroke:#00FF00;stroke-width:20;}
+	.st4{display:inline;fill:none;stroke:#00FE00;stroke-width:20;}
+	.st5{display:inline;fill:#00FF00;}
+	.st6{display:inline;stroke:#000000;stroke-width:0.6;}
+	.st7{fill:#2F3A3E;}
+	.st8{fill:#397EB8;}
+	.st9{fill:#FBC133;}
+	.st10{fill:#FFFFFF;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" guidetolerance="27" id="base" inkscape:current-layer="layer4" inkscape:cx="300" inkscape:cy="300" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-text-baseline="true" inkscape:window-height="745" inkscape:window-maximized="1" inkscape:window-width="1304" inkscape:window-x="54" inkscape:window-y="-8" inkscape:zoom="1.0066667" objecttolerance="18" pagecolor="#ffffff" showgrid="true" units="px">
+	<inkscape:grid  empspacing="6" id="grid3721" spacingx="10" spacingy="10" type="xygrid" units="px"></inkscape:grid>
+</sodipodi:namedview>
+<g id="layer2" inkscape:groupmode="layer" inkscape:label="Capa 2" sodipodi:insensitive="true" class="st0">
+	<path id="path201" inkscape:connector-curvature="0" class="st1" d="M120,180c0,0-60,0-60,120s60,120,60,120h60c0,0,0-30,0-60
+		s20-60,60-60c0,0,80,0,120,0s59.6-29.5,60-60s0-120,0-120s1-58.9-120-60c-121-1.1-120,60-120,60v60H120z"/>
+	<path id="path202" inkscape:connector-curvature="0" class="st2" d="M480,420c0,0,61.8-12.1,60.9-122.1C540,180,480,180,480,180
+		h-60v60c0,30-20,60-60,60c0,0-80,0-120,0s-60,30-60,60s0,120,0,120s10,59.7,120,59.9C420,540,420,480,420,480v-60H480z"/>
+</g>
+<g id="layer3" inkscape:groupmode="layer" inkscape:label="Capa 3" sodipodi:insensitive="true" class="st0">
+	<path id="path301" inkscape:connector-curvature="0" class="st3" d="M180,180v-60c0,0,0-60,120-60s120,60,120,60s0,80,0,120
+		s-30,60-60,60s-90,0-120,0s-60,20-60,60s0,120,0,120s0,60,120,60s120-60,120-60v-60"/>
+	<path id="path302" inkscape:connector-curvature="0" class="st3" d="M300,180H120c0,0-60,0-60,120s60,120,60,120h60"/>
+	<path id="path303" inkscape:connector-curvature="0" class="st4" d="M420,180h60c0,0,60,0,60,120s-60,120-60,120H300"/>
+	<circle id="path304" class="st5" cx="240" cy="120" r="20"/>
+	<circle id="path305" class="st5" cx="360" cy="480" r="20"/>
+</g>
+<g id="layer4" inkscape:groupmode="layer" inkscape:label="Capa 4" sodipodi:insensitive="true" class="st0">
+	<path id="path401" inkscape:connector-curvature="0" class="st6" d="M30,60h540"/>
+	<path id="path402" inkscape:connector-curvature="0" class="st6" d="M150,120h300"/>
+	<path id="path403" inkscape:connector-curvature="0" class="st6" d="M30,180h540"/>
+	<path id="path404" inkscape:connector-curvature="0" class="st6" d="M330,240h120"/>
+	<path id="path405" inkscape:connector-curvature="0" class="st6" d="M30,300h540"/>
+	<path id="path406" inkscape:connector-curvature="0" class="st6" d="M150,360h120"/>
+	<path id="path407" inkscape:connector-curvature="0" class="st6" d="M30,420h540"/>
+	<path id="path408" inkscape:connector-curvature="0" class="st6" d="M150,480h300"/>
+	<path id="path409" inkscape:connector-curvature="0" class="st6" d="M30,540h540"/>
+	<path id="path410" inkscape:connector-curvature="0" class="st6" d="M60,30v540"/>
+	<path id="path411" inkscape:connector-curvature="0" class="st6" d="M120,450V150"/>
+	<path id="path412" inkscape:connector-curvature="0" class="st6" d="M180,30v540"/>
+	<path id="path413" inkscape:connector-curvature="0" class="st6" d="M240,30v180"/>
+	<path id="path414" inkscape:connector-curvature="0" class="st6" d="M240,270v120"/>
+	<path id="path415" inkscape:connector-curvature="0" class="st6" d="M300,30v540"/>
+	<path id="path416" inkscape:connector-curvature="0" class="st6" d="M360,210v120"/>
+	<path id="path417" inkscape:connector-curvature="0" class="st6" d="M360,390v180"/>
+	<path id="path418" inkscape:connector-curvature="0" class="st6" d="M420,30v540"/>
+	<path id="path419" inkscape:connector-curvature="0" class="st6" d="M480,450V150"/>
+	<path id="path420" inkscape:connector-curvature="0" class="st6" d="M540,30v540"/>
+</g>
+<g>
+	<path class="st7" d="M93.8,5.4h412.5c48.8,0,88.4,39.6,88.4,88.4v412.5c0,48.8-39.6,88.4-88.4,88.4H93.8
+		C45,594.6,5.4,555,5.4,506.2V93.8C5.4,45,45,5.4,93.8,5.4z"/>
+	
+		<g id="layer1_00000003103850217887215780000001655491167873948330_" inkscape:groupmode="layer" inkscape:label="Capa 1" sodipodi:insensitive="true">
+		<path id="path101_00000027596300636596332290000002380171286903249326_" inkscape:connector-curvature="0" class="st8" d="
+			M300,176.9H98.6c0,0-55.9,0-55.9,123.1s55.9,123.1,55.9,123.1h55.9c0,0,0-11.2,0-55.9s33.6-78.3,78.3-78.3s100.5,0,134.2,0
+			s56-22.4,56.5-56.5c0.5-34.1-0.5-133.7-0.5-133.7s0-55.9-123.1-55.9S176.9,98.6,176.9,98.6v55.9H300V176.9z"/>
+		<path id="path102_00000017475996805141802540000002069282503925537170_" inkscape:connector-curvature="0" class="st9" d="
+			M300,423.1h201.4c0,0,55.9,0,55.9-123.1s-55.9-123.1-55.9-123.1h-55.9c0,0,0,11.2,0,55.9s-33.6,78.3-78.3,78.3s-100.7,0-134.2,0
+			s-55.9,22.4-55.9,55.9s0,134.2,0,134.2s0,55.9,123.1,55.9s123.1-55.9,123.1-55.9v-55.9H300V423.1z"/>
+		<circle id="path103_00000093147352955221576020000009152461959438359707_" class="st10" cx="232.9" cy="98.6" r="22.4"/>
+		<circle id="path104_00000100357410965365076630000003001190647536331928_" class="st10" cx="367.1" cy="501.4" r="22.4"/>
+	</g>
+</g>
+</svg>
